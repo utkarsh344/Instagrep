@@ -1,0 +1,7 @@
+flask
+instaloader
+opencv-python
+face_recognition
+scikit-learn
+openai
+python-dotenv
