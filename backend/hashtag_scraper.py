@@ -3,8 +3,8 @@ import json
 import random
 import time
 
-USERNAME = "dr_house9000"
-PASSWORD = "bububabyinstagram"
+USERNAME = ""
+PASSWORD = ""
 HASHTAG = "berlin"
 MAX_POSTS = 10
 
