@@ -3,8 +3,8 @@ import json
 import random
 import time
 
-USERNAME = ""
-PASSWORD = ""
+USERNAME = "666"
+PASSWORD = "555"
 HASHTAG = "berlin"
 MAX_POSTS = 10
 
